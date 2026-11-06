@@ -23,8 +23,6 @@
 
   <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=docker&amp;text=false&amp;fill=2496ED" alt="Docker" width="128" />
 
-  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=git&amp;text=false&amp;fill=F05032" alt="Git" width="128" />
-
 </div>
 
 <br>
