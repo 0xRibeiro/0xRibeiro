@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Icarus — minimalist wings">
+  <rect width="64" height="64" rx="15" fill="#182744"/>
+  <g stroke="#93C5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M29 41V36C29 29 25 26 18 25C12 24 9 21 6 16C5 23 8 29 13 32C13 38 18 42 25 43"/>
+    <path d="M13 32C16 34 19 35 22 35"/>
+    <path d="M17 39C20 41 23 42 26 42"/>
+    <path d="M35 41V36C35 29 39 26 46 25C52 24 55 21 58 16C59 23 56 29 51 32C51 38 46 42 39 43"/>
+    <path d="M51 32C48 34 45 35 42 35"/>
+    <path d="M47 39C44 41 41 42 38 42"/>
+  </g>
+</svg>
