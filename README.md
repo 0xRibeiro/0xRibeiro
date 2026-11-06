@@ -56,7 +56,7 @@
 <br><br>
 
 ---
-
+<!--
 <div align="left">
 
   <h2>Icarus</h2>
@@ -118,7 +118,7 @@
 </div>
 
 <br>
-
+-->
 <div align="center">
   <sub>Built with curiosity. Improved through practice.</sub>
 </div>
