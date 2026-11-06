@@ -9,14 +9,27 @@
 
 ## Tech stack
 
-<img src="./assets/techstack.svg" alt="Techstack" />
+<div align="center">
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=java&amp;text=false&amp;fill=ED8B00" alt="Java" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=python&amp;text=false&amp;fill=3776AB" alt="Python" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=javascript&amp;text=false&amp;fill=F7DF1E" alt="JavaScript" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=fastapi&amp;text=false&amp;fill=009688" alt="FastAPI" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=postgresql&amp;text=false&amp;fill=4169E1" alt="PostgreSQL" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=docker&amp;text=false&amp;fill=2496ED" alt="Docker" width="128" />
+
+  <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=git&amp;text=false&amp;fill=F05032" alt="Git" width="128" />
+
+</div>
 
 <br>
 
-## Featured projects
-
-
-<h2>Featured projects</h2>
+## Current Projects
 
 <div align="left">
 
