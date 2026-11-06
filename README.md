@@ -1,74 +1,90 @@
+
 <div align="center">
 
-<img src="./assets/header.svg" alt="Victor Ribeiro — Software Engineering" width="100%" />
-
-<br />
-
-<img src="https://github-readme-insight-terminal-asci-eight.vercel.app/svg/dashboard?user=0xRibeiro&amp;theme=windows&amp;scale=0.7" alt="GitHub tmux dashboard" width="100%" />
+<img src="https://github-readme-insight-terminal-asci-eight.vercel.app/svg/dashboard?user=0xRibeiro&amp;theme=mac&amp;scale=0.7" alt="GitHub tmux dashboard" width="100%" />
 
 </div>
 
-### About
+<br>
 
-Software Engineering student at **Universidade de Mogi das Cruzes**. Interested in backend development, software architecture, and building reliable, practical applications.
+<h2>Tech stack</h2>
 
-### Technologies
-
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="72" height="72" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="72" height="72" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="72" height="72" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="72" height="72" title="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="72" height="72" title="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="72" height="72" title="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="72" height="72" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="72" height="72" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="72" height="72" title="Redis" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="72" height="72" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="72" height="72" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="72" height="72" title="Linux" />
 </p>
 
-**Frameworks**
+<br>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" alt="Nuxt" title="Nuxt" />&nbsp;&nbsp;
-</p>
+## Featured projects
 
-**Databases**
+<div align="center">
+  <a href="https://github.com/0xRibeiro/Camus-PFC">
+    <img src="./assets/camus.svg" width="96" height="96" alt="Camus" />
+  </a>
+  <h2><a href="https://github.com/0xRibeiro/Camus-PFC">Camus</a></h2>
+  <strong>Oceanography · Education · IoT</strong>
+  <p>An oceanography learning platform combining educational content, gamification, marine biodiversity, and IoT integration.</p>
+  <p><strong>Stack:</strong> <code>FastAPI</code> · <code>Nuxt</code> · <code>PostgreSQL</code> · <code>ESP32</code></p>
+</div>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />&nbsp;&nbsp;
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;
-</p>
-
-### Selected projects
-
-<img src="./assets/camus.svg" alt="Fish icon" width="27" align="left" /> &nbsp; **[Camus](https://github.com/0xRibeiro/Camus-PFC)**
-
-An oceanography learning platform combining educational content, gamification, biodiversity data, and IoT.  
-<sub>FastAPI · Nuxt · PostgreSQL · ESP32</sub>
-
-<img src="./assets/icarus.svg" alt="Wings icon" width="27" align="left" /> &nbsp; **Icarus** · *work in progress*
-
-A travel planning platform for organizing itineraries, destinations, activities, notes, and trip progress in one place.  
-<sub>To be decided</sub>
-
-<img src="./assets/prometeus.svg" alt="Book icon" width="27" align="left" /> &nbsp; **Prometeus** · *work in progress*
-
-A personal knowledge platform for organizing books, notes, highlights, and connections between ideas.  
-<sub>To be decided</sub>
-
-<img src="./assets/theseus.svg" alt="mustache icon" width="27" align="left" /> &nbsp; **Theseus** · *work in progress*
-
-An interactive atlas of Hercule Poirot's investigations, mapping crime locations, victims, culprits, and case summaries across Agatha Christie's novels.<br>
-<sub>To be decided</sub>
+<br>
 
 ---
+
+<br>
+
+<div align="center">
+  <img src="./assets/icarus.svg" width="96" height="96" alt="Icarus" />
+  <h2>Icarus</h2>
+  <em>In development</em>
+  <p><strong>Travel · Planning · Exploration</strong></p>
+  <p>A travel planning platform for organizing itineraries, destinations, activities, notes, and trips in one place.</p>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="./assets/prometeus.svg" width="96" height="96" alt="Prometeus" />
+  <h2>Prometeus</h2>
+  <em>In development</em>
+  <p><strong>Books · Reading · Knowledge</strong></p>
+  <p>A personal knowledge platform for organizing books, notes, highlights, reading progress, and connections between ideas.</p>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <img src="./assets/theseus.svg" width="96" height="96" alt="Theseus" />
+  <h2>Theseus</h2>
+  <em>In development</em>
+  <p><strong>Literature · Investigation · Cartography</strong></p>
+  <p>An interactive atlas of Hercule Poirot's investigations, mapping crime locations, victims, culprits, and case summaries across Agatha Christie's novels.</p>
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
   <sub>Built with curiosity. Improved through practice.</sub>
