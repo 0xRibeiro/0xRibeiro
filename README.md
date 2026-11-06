@@ -53,15 +53,20 @@ Software Engineering student at **Universidade de Mogi das Cruzes**. Interested 
 An oceanography learning platform combining educational content, gamification, biodiversity data, and IoT.  
 <sub>FastAPI · Nuxt · PostgreSQL · ESP32</sub>
 
-<img src="./assets/taskflow.svg" alt="Task icon" width="27" align="left" /> &nbsp; **TaskFlow API** · *Planned*
+<img src="./assets/icarus.svg" alt="Wings icon" width="27" align="left" /> &nbsp; **Icarus** · *work in progress*
 
-A task management API to demonstrate authentication, role-based access control, testing, caching, and observability.  
-<sub>Spring Boot · PostgreSQL · Redis · Docker</sub>
+A travel planning platform for organizing itineraries, destinations, activities, notes, and trip progress in one place.  
+<sub>To be decided</sub>
 
-<img src="./assets/deployboard.svg" alt="Monitor icon" width="27" align="left" /> &nbsp; **DeployBoard** · *Planned*
+<img src="./assets/prometeus.svg" alt="Book icon" width="27" align="left" /> &nbsp; **Prometeus** · *work in progress*
 
-A full-stack service monitoring dashboard featuring live status updates, deployment history, and operational insights.  
-<sub>FastAPI · Nuxt · Docker</sub>
+A personal knowledge platform for organizing books, notes, highlights, and connections between ideas.  
+<sub>To be decided</sub>
+
+<img src="./assets/theseus.svg" alt="mustache icon" width="27" align="left" /> &nbsp; **Theseus** · *work in progress*
+
+An interactive atlas of Hercule Poirot's investigations, mapping crime locations, victims, culprits, and case summaries across Agatha Christie's novels.<br>
+<sub>To be decided</sub>
 
 ---
 
