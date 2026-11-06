@@ -106,14 +106,6 @@
 
 </div>
 
-<br><br>
-
-<div align="center">
-  <sub>Built with curiosity. Improved through practice.</sub>
-</div>
-
----
-
 <br>
 
 <div align="center">
