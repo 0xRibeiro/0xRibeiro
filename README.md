@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-insight-terminal-asci-eight.vercel.app/svg/dashboard?user=0xRibeiro&amp;theme=windows&amp;scale=0.7" alt="GitHub tmux dashboard" width="100%" />
+<img src="https://github-readme-insight-terminal-asci-eight.vercel.app/svg/dashboard?user=0xRibeiro&amp;theme=mac&amp;scale=0.7" alt="GitHub tmux dashboard" width="100%" />
 
 </div>
 
