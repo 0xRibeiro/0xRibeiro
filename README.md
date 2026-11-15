@@ -5,6 +5,14 @@
 
 </div>
 
+<p align="center">
+  <img
+    src="./assets/memento-mori.gif"
+    alt="Memento Mori"
+    width="520"
+  />
+</p>
+
 <br>
 
 ## Tech stack
