@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="./assets/memento-mori.gif"
+    src="./assets/seek-a-way-out.gif"
     alt="Memento Mori"
     width="100%"
   />
