@@ -5,13 +5,6 @@
 
 </div>
 
-<p align="center">
-  <img
-    src="./assets/moon.gif"
-    alt="Memento Mori"
-    width="100%"
-  />
-</p>
 
 <br>
 
